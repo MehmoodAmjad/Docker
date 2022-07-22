@@ -24,3 +24,22 @@ Down
 ```
 docker-compose down
 ```
+
+# Basic Commands
+
+show the list of containers
+```
+docker ps
+```
+stop the container
+```
+docker stop <container_id>
+```
+remove the container
+```
+docker rm <container_id>
+```
+Push to a repo
+```
+docker push docker/getting-started
+```
