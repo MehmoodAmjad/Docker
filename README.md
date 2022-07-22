@@ -51,3 +51,10 @@ The tutorial on the link below can be followed for setting up containers for run
 ```
 https://medium.com/swlh/hands-on-apache-ranger-docker-poc-with-hadoop-hdfs-hive-presto-814344a03a17
 ```
+
+# Setting up Hue
+
+The following command automatically sets up the latest hue container on docker
+```
+docker run -it -p 8888:8888 gethue/hue:latest
+```
