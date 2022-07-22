@@ -43,3 +43,11 @@ Push to a repo
 ```
 docker push docker/getting-started
 ```
+
+# Setting up Apache Ranger and Hadoop Services on Docker
+
+The tutorial on the link below can be followed for setting up containers for running docker and Hadoop Services on Ranger
+
+```
+https://medium.com/swlh/hands-on-apache-ranger-docker-poc-with-hadoop-hdfs-hive-presto-814344a03a17
+```
